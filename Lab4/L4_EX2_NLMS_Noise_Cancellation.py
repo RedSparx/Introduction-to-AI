@@ -58,7 +58,7 @@ for n in range(N-k):
 plt.subplot(1, 2, 1)
 plt.plot(t, x, color='b', alpha=0.25, label='System Input')
 
-plt.plot(t, d, color='g', linewidth=2, label = 'Desired Signal')
+plt.plot(t, d, color='g', linewidth=2, label='Desired Signal')
 plt.title('Original Signal with Impairment')
 plt.legend()
 

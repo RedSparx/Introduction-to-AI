@@ -51,7 +51,7 @@ plt.subplot(1,2,2)
 plt.plot(x_line,y_line, 'g--', linewidth=1.5)
 plt.axis(axis_limits)
 # endregion
-# Display the classification of each point.
+# region Display the classification of each point.
 Classify = lambda x,w: +1 if np.dot(x,w) >= 0 else -1
 perceptron_output = np.ones_like(t)*np.nan
 for i in range(N):
@@ -64,7 +64,7 @@ for i in range(N):
     else:
         plt.text(x[i], y[i], Class_Assignment, color='k', horizontalalignment='center', verticalalignment='center')
 plt.axis(axis_limits)
-
+# endregion
 # region Determine the classifier accuracy: The difference between the output label and target label.
 missclassifications = np.count_nonzero(np.abs(perceptron_output-t))
 accuracy = (N-missclassifications) / N * 100
@@ -74,4 +74,4 @@ plt.title('ADALINE Output (%4.2f%% accuracy)'%accuracy)
 plt.tight_layout()
 plt.savefig(r'Data\ADALINE_Output.png')
 plt.show()
-# region
+# endregion

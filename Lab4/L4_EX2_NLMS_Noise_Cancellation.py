@@ -71,4 +71,3 @@ plt.plot(t, y, 'g')
 plt.title('Impairment-Cancelled Signal')
 plt.show()
 # endregion
-

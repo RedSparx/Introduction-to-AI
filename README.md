@@ -29,12 +29,24 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 4. Estimate the linear (polynomial) coefficients for the noisy model.
 5. Plot the error surface in a,b space identifying the minima.
 #### Exercise 2: Given a data set, find the best fit model and make a prediction based on it.
-![Model fitting.] (https://github.com/RedSparx/Introduction-to-AI/blob/master/Lab3/Data/Data_Set_1.png)
 1. Perform regression modeling of data against several models: (i)y=a*sin(x)+b,(ii)ln(y)=m*ln(x)+b,(iii)y=ax^3+b*x^2+c
 2. Plot all three models with the data.
 3. Compute residuals for each model.
 4. Determine which of the models is the best fit for the given data.
 5. Given a set of input values and the best fit model, predict the output.
 ### Lab 4
-#### Exercise 1: Train a perceptron to separate data into two classes.  Use the learned decision line to classify new data.
-#### Exercise 2: Use the LMS algorithm in a simulation of active noise cancellation.
+#### Exercise 1: Train an ADALINE unit to separate data into two classes.  Use the learned decision line to classify new data.
+1. Synthesize up a labelled 2D dataset with 250 points: (x,y,c) data separated into two target classes c = {+1, -1}
+2. Plot data points for each class using the labels to distinguish points with color (in a subplot).
+3. Set up 500 training cycles for an ADALINE with a learning rate of 1E-6.
+4. Print the equation of the class separation line.  Optional: Normalize the equation.
+5. Plot the class separation line using the weights determined from training (in a subplot).
+6. Use the ADALINE to classify each point.  Superimpose the classification labels over the class separation line.
+7. Compute the accuracy of the classifier.
+#### Exercise 2: NLMS Noise Cancellation. Recover a signal that has been corrupted by noise using an adaptive filter.
+1. Synthesize a pure sinusoid signal and corrupt it with noise (t={0..2pi}, f(x)= sin(5x).
+2. Initialize the weight vector (w) for the filter (length k=500).
+3. Initialize output and error arrays to hold these values for each shift of the filter through the data.
+4. Recover the pure signal from the noisy data by adjusting filter weights adaptively using the NLMS learning rule. Store the output and error signals.
+5. Plot the original signal, the learned noise signal, as well as the filter output.
+

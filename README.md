@@ -9,12 +9,22 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 3. Perform a computation on the data.
 4. Plot data based on computation.
 #### Exercise 2: Synthesize Random 1D Test Data.
+1. Write a function to generate 1D uniformly distributed data and plot a histogram with labeled axes.
+2. Write a function to generate 1D normally distributed data and plot a histogram with labeled axes.
+3. Simulate a noisy sine wave signal(uniform and Gaussian noise).
 ### Lab 2 
 #### Exercise 1: Find a signal embedded in noise.
+
+
 #### Exercise 2: Synthesize Random 2D Test Data.
 ### Lab 3
 #### Exercise 1: Create an error surface for a regression problem.
 #### Exercise 2: Given a data set, find the best fit model and make a prediction based on it.
+1. Perform regression modeling of data against several models: (i)y=a*sin(x)+b,(ii)ln(y)=m*ln(x)+b,(iii)y=ax^3+b*x^2+c
+2. Plot all three models with the data.
+3. Compute residuals for each model.
+4. Determine which of the models is the best fit for the given data.
+5. Given a set of input values and the best fit model, predict the output.
 ### Lab 4
 #### Exercise 1: Train a perceptron to separate data into two classes.  Use the learned decision line to classify new data.
 #### Exercise 2: Use the LMS algorithm in a simulation of active noise cancellation.

@@ -3,14 +3,14 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 ## 
 
 ### Lab 1
-####Exercise 1: Working with Tabular Data in a file.
-####Exercise 2: Synthesize Random 1D Test Data.
+#### Exercise 1: Working with Tabular Data in a file.
+#### Exercise 2: Synthesize Random 1D Test Data.
 ### Lab 2 
-####Exercise 1: Find a signal embedded in noise.
-####Exercise 2: Synthesize Random 2D Test Data.
+#### Exercise 1: Find a signal embedded in noise.
+#### Exercise 2: Synthesize Random 2D Test Data.
 ### Lab 3
-####Exercise 1: Create an error surface for a regression problem.
-####Exercise 2: Given a data set, find the best fit model and make a prediction based on it.
+#### Exercise 1: Create an error surface for a regression problem.
+#### Exercise 2: Given a data set, find the best fit model and make a prediction based on it.
 ### Lab 4
-####Exercise 1: Train a perceptron to separate data into two classes.  Use the learned decision line to classify new data.
-####Exercise 2: Use the LMS algorithm in a simulation of active noise cancellation.
+#### Exercise 1: Train a perceptron to separate data into two classes.  Use the learned decision line to classify new data.
+#### Exercise 2: Use the LMS algorithm in a simulation of active noise cancellation.

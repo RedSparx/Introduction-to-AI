@@ -4,14 +4,14 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 
 ### Lab 1
 #### Exercise 1: Working with Tabular Data in a file.
-1. [ ] Read data from a file and store it in memory.
-2. [ ] Determine the dimensions of the data.
-3. [ ] Perform a computation on the data.
-4. [ ] Plot data based on computation.
+1. Read data from a file and store it in memory.
+2. Determine the dimensions of the data.
+3. Perform a computation on the data.
+4. Plot data based on computation.
 #### Exercise 2: Synthesize Random 1D Test Data.
-1. [ ] Write a function to generate 1D uniformly distributed data and plot a histogram with labeled axes.
-2. [ ] Write a function to generate 1D normally distributed data and plot a histogram with labeled axes.
-3. [ ] Simulate a noisy sine wave signal(uniform and Gaussian noise).
+1. Write a function to generate 1D uniformly distributed data and plot a histogram with labeled axes.
+2. Write a function to generate 1D normally distributed data and plot a histogram with labeled axes.
+3. Simulate a noisy sine wave signal(uniform and Gaussian noise).
 ### Lab 2 
 #### Exercise 1: Find a signal embedded in noise.
 1. Read data from a file and process the stream in frames.

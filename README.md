@@ -4,6 +4,10 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 
 ### Lab 1
 #### Exercise 1: Working with Tabular Data in a file.
+1. Read data from a file and store it in memory.
+2. Determine the dimensions of the data.
+3. Perform a computation on the data.
+4. Plot data based on computation.
 #### Exercise 2: Synthesize Random 1D Test Data.
 ### Lab 2 
 #### Exercise 1: Find a signal embedded in noise.

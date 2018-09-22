@@ -12,7 +12,7 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 1. Write a function to generate 1D uniformly distributed data and plot a histogram with labeled axes.
 2. Write a function to generate 1D normally distributed data and plot a histogram with labeled axes.
 3. Simulate a noisy sine wave signal(uniform and Gaussian noise).
-### Lab 2 
+### Lab 2
 #### Exercise 1: Find a signal embedded in noise.
 1. Read data from a file and process the stream in frames.
 2. Using a sliding frame, compute a closeness score between the frame and a stored signal.
@@ -29,6 +29,7 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 4. Estimate the linear (polynomial) coefficients for the noisy model.
 5. Plot the error surface in a,b space identifying the minima.
 #### Exercise 2: Given a data set, find the best fit model and make a prediction based on it.
+![Model fitting.] (https://github.com/RedSparx/Introduction-to-AI/blob/master/Lab3/Data/Data_Set_1.png)
 1. Perform regression modeling of data against several models: (i)y=a*sin(x)+b,(ii)ln(y)=m*ln(x)+b,(iii)y=ax^3+b*x^2+c
 2. Plot all three models with the data.
 3. Compute residuals for each model.

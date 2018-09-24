@@ -2,7 +2,7 @@
 Written in Python, these examples are designed to follow-up on classroom teaching.  The introductory course is meant to provide a detailled overview of various AI algorithms following a methodology that relies on the intuition behind important mathematical formulations rather than a detailled treatment of the mathematics directly.  This allows for a pedagogy that trades off between blindly using off-the-shelf AI tools such as Tensorflow, and going deep into mathematical formulations that require advanced studies.
 ## 
 
-###Lab 1: Working with Data
+### Lab 1: Working with Data
 #### Exercise 1: Working with Tabular Data in a file.
 > 1. Read data from a file and store it in memory.
 > 2. Determine the dimensions of the data.
@@ -12,7 +12,7 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 > 1. Write a function to generate 1D uniformly distributed data and plot a histogram with labeled axes.
 > 2. Write a function to generate 1D normally distributed data and plot a histogram with labeled axes.
 > 3. Simulate a noisy sine wave signal(uniform and Gaussian noise).
-###Lab 2: Data Correlation
+### Lab 2: Data Correlation
 #### Exercise 1: Find a signal embedded in noise.
 > 1. Read data from a file and process the stream in frames.
 > 2. Using a sliding frame, compute a closeness score between the frame and a stored signal.
@@ -21,7 +21,7 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 > 1. Write a function that will generate a set of Gaussian random vectors with a a dictionary as input with parameters mean, variance, and size.
 > 2. Generate several different sets of random vectors.
 > 3. Make a scatter plot of the vectors.
-###Lab 3: Regression, Model Fitting & Error Surfaces
+### Lab 3: Regression, Model Fitting & Error Surfaces
 #### Exercise 1: Create an error surface for a regression problem.
 > 1. Create a simple linear model using fixed coefficients.
 > 2. Create a new data set with additive Gaussian noise.
@@ -34,7 +34,7 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 > 3. Compute residuals for each model.
 > 4. Determine which of the models is the best fit for the given data.
 > 5. Given a set of input values and the best fit model, predict the output.
-###Lab 4: Adaptive processing using Error Gradients: Perceptron & ADALINE
+### Lab 4: Adaptive processing using Error Gradients: Perceptron & ADALINE
 #### Exercise 1: Train an ADALINE unit to separate data into two classes.  Use the learned decision line to classify new data.
 > 1. Synthesize up a labelled 2D dataset with 250 points: (x,y,c) data separated into two target classes c = {+1, -1}
 > 2. Plot data points for each class using the labels to distinguish points with color (in a subplot).
@@ -58,18 +58,18 @@ Written in Python, these examples are designed to follow-up on classroom teachin
 > 6. From the perceptron, extract the weight vector.
 > 7. Implement a function that will perform a classification based on an input and the extracted weights.
 > 8. Construct a pandas table (dataframe) that will hold the following columns: test data, classification from the function-implemented perceptron and classification from sklean's perceptron classifier.
-###Lab 5: The Multi-Layer Perceptron
+### Lab 5: The Multi-Layer Perceptron
 > #### Exercise 1: ~~Learning Logic (NOT, AND, OR, XOR)~~
 > #### Exercise 2: ~~Character Recognition~~
 > #### Exercise 3: ~~The Iris Data Set~~
-###Lab 6: ~~Neural Networks & Backpropagation Training~~
-###Lab 7: ~~Clustering & PCA~~
-###Lab 8: ~~Data Trees~~ 
-###Lab 9: ~~Markov Models 1~~
-###Lab 10: ~~Markov Models 2~~
-###Lab 11: ~~Markov Models 3~~
-###Lab 11: ~~Genetic Algorithms 1~~
-###Lab 11: ~~Genetic Algorithms 2~~
-###Lab 14: ~~Genetic Algorithms & Neural Networks~~
-###Lab 15: ~~Genetic Algorithms & Neural Networks~~
+### Lab 6: ~~Neural Networks & Backpropagation Training~~
+### Lab 7: ~~Clustering & PCA~~
+### Lab 8: ~~Data Trees~~ 
+### Lab 9: ~~Markov Models 1~~
+### Lab 10: ~~Markov Models 2~~
+### Lab 11: ~~Markov Models 3~~
+### Lab 11: ~~Genetic Algorithms 1~~
+### Lab 11: ~~Genetic Algorithms 2~~
+### Lab 14: ~~Genetic Algorithms & Neural Networks~~
+### Lab 15: ~~Genetic Algorithms & Neural Networks~~
 

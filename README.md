@@ -34,8 +34,9 @@ Students in the _New Developments in Digital Technology_ course are responsible 
 - [ ] ~~**Lab 14**~~
 - [ ] ~~**Lab 15**~~
 
-Students should be prepared for testing.
- 
+Students should be prepared to produce projects and reports based on the knowledge gained from these incrementally difficult challenges.  The **theoretical base** acquired is of paramount concern here and Python implementation-details, while important - are __not__ the goal.  If the student has acquired a *language-independent* understanding of the the artificial intelligence systems described here, then they can consider themselves to have succeeded this course.
+
+# Laboratory Work
 
 ### Lab 1: Working with Data
 #### Exercise 1: Working with Tabular Data in a file.

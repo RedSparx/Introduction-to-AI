@@ -1,6 +1,41 @@
-# Introduction to Artificial Intelligence: John Salik
+# Introduction to Artificial Intelligence: <br>John Salik, Eng. 
 Written in Python, these examples are designed to follow-up on classroom teaching.  The introductory course is meant to provide a detailled overview of various AI algorithms following a methodology that relies on the intuition behind important mathematical formulations rather than a detailled treatment of the mathematics directly.  This allows for a pedagogy that trades off between blindly using off-the-shelf AI tools such as Tensorflow, and going deep into mathematical formulations that require advanced studies.
-## 
+
+Students following this curriculum should know that these exercises are meant as incremental challenges, rather than explicit goals.  Advancement in the curriculum requires *self-study* and focused research in order to succeed in each challenge.  This said, students are expected to devote time into learning **Python** with the libraries that are implicitly used here.  It is expected that the instructor to provide the _theoretical background_  that relates to the examples given here.
+
+###Self Study: How to do the laboratory work.
+With the theoretical background provided by an instructor in a classroom setting, students should attend laboratory sessions with the goal of completing each work within a _two hour time-frame_, which can carry over to homework that should not exceed another _two hours_.  In this challenge-based pedagogy, students that cannot complete the work within a total of _four hours_ are having difficulty and must seek the assistance of the instructor in order to remained paced with weekly lectures.  **This is an intensive introductory course.**
+
+In doing any of the laboratory work, students should follow the challenges _in the order presented_ as the sequence is meant to guide research.  The core of the challenges from an AI perspective will be relatively simple so the objective of doing the laboratory work is to understand **how to implement algorithms** and **how to apply them to solve problems.**  Once a student has completed the first challenge, they can proceed into the next.  If they cannot start the challenge _it is the responsibility of the **student** to seek the assistance of the instructor._  During the laboratory exercises, discussion between colleagues and the instructor is encouraged.  This focus on applied AI research is meant to generate questions that will ultimately produce a tangible result.  The _full, working examples_ provided here are meant to focus the student and assist them in producing their own work.
+
+The body of laboratory work is based on proficient use of **Python 3**.  Through research, students should familiarize themselves with the following packages:
+- **Mathematics:** numpy, scipy
+- **Data Processing:** pandas
+- **Visualization:** matplolib, seaborn
+- **Machine Learning:** scikit-learn.
+Of course, individual students may find that succeeding at a challenge may involve use of other packages.  This said, proficiency in using the above packages is a requirement to proceed with further courses in this series.
+
+#### Students at Vanier College
+Students in the _New Developments in Digital Technology_ course are responsible for the following:
+
+- [x] **Lab 1:** Ex. 1
+- [x] **Lab 2:** Ex. 1,2
+- [x] **Lab 3:** Ex. 1,2
+- [x] **Lab 4:** Ex. 1,2,3
+- [ ] ~~**Lab 5**~~
+- [ ] ~~**Lab 6**~~
+- [ ] ~~**Lab 7**~~
+- [ ] ~~**Lab 8**~~
+- [ ] ~~**Lab 9**~~
+- [ ] ~~**Lab 10**~~
+- [ ] ~~**Lab 11**~~
+- [ ] ~~**Lab 12**~~
+- [ ] ~~**Lab 13**~~
+- [ ] ~~**Lab 14**~~
+- [ ] ~~**Lab 15**~~
+
+Students should be prepared for testing.
+ 
 
 ### Lab 1: Working with Data
 #### Exercise 1: Working with Tabular Data in a file.

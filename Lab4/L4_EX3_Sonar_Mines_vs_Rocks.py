@@ -14,7 +14,6 @@ EXERCISE #3: Using a sklearn's perceptron model, process sonar data for rock and
 """
 
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import Perceptron
 from sklearn.metrics import accuracy_score

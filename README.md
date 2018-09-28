@@ -97,9 +97,33 @@ Students should be prepared to produce projects and reports based on the knowled
 > 7. Implement a function that will perform a classification based on an input and the extracted weights.
 > 8. Construct a pandas table (dataframe) that will hold the following columns: test data, classification from the function-implemented perceptron and classification from sklean's perceptron classifier.
 ### Lab 5: The Multi-Layer Perceptron
-> #### Exercise 1: ~~Learning Logic (NOT, AND, OR, XOR)~~
-> #### Exercise 2: ~~Character Recognition~~
-> #### Exercise 3: ~~The Iris Data Set~~
+#### Exercise 1: Demonstrate limitations of perceptrons: Learning 2-bit logic (AND, OR, XOR).
+> 1. Create arrays that will hold inputs and corresponding outputs for each gate: AND, OR, XOR (truth tables).
+> 2. To each input, add 500 gaussian random variables (0.2 variance).  There should now be 2000 points.
+> 3. Create a target vector containing the target value representing the output for each logic gate.
+> 4. Set up one perceptron for each logic gate.  Train it for a maximum number of 5000 iterations and a learning rate of 1E-6.
+> 5. Print the learned truth table.
+> 6. Plot the decision lines for the perceptrons trained on AND, OR, and XOR.
+#### Exercise 2: Character recognition using a single layer of many perceptrons.
+> 1. From sklearn, load the NIST handwritten dataset and display its associated description for the user.
+> 2. Using 10 perceptrons from scikit and a "one-hot coding" scheme (1-of-10), train each to recognize one digit. Be sure to use the _entire_ dataset to train, not just data for a single digit.
+> 3. Randomly select a image (of a digit) from the database.  Predict what it is.
+> 4. Display the randomly selected image and the prediction of what digit it is.
+> 5. Display a 10x10 image plot of some training data with the labeled randomly selected image.
+> 6. Extract all of the perceptron weights and bias and store them in a text file with the bias in the last column.
+> 7. Save the weights and bias in an Excel file with identifying columns (W0, W1, W2, ... W64, B). 
+#### Exercise 3: Create a custom perceptron class and train it to distinguish between setosa and versicolor petals using length and width (Iris dataset).
+> 1. Load the Iris Dataset from scikit.  Plot the sepal length vs sepal width for the setosa and versicolor flowers.
+> 2. Assemble training data into an array with data point in rows (columns contain features).
+> 3. Plot the data.
+> 4. Create a perceptron class (**Percept**) with a constructor that will: initialize random weights (W), a maximum number of iterations (iterations=2000), learning rate (mu=1E-3), and a training score (score).  The constructor should take on optional parameters lrate and iter for learning rate and number of iterations respectively. Weights should be randomly initialized. Be sure to shuffle the data so that labeled data are in random positions.
+> 5. Add a member function **train(X,T)** that takes data (X) and target labels (T) and implements the learning rule. Training should iterate over the entire data set using the set number of iterations.  It should return the training score.
+> 6. Add a member function **predict(X)** that will return the output predictions given an input data vector.
+> 7.  Instantiate the class using the default parameters.  Train the perceptron using the data and target classification.
+> 8. Predict flower classifications for the training data.
+> 9.  Using the perceptron weights, plot the decision line.
+> 10. Save the plot.
+
 ### Lab 6: ~~Neural Networks & Backpropagation Training~~
 ### Lab 7: ~~Clustering & PCA~~
 ### Lab 8: ~~Data Trees~~ 

@@ -1,4 +1,4 @@
-"""LABORATORY 5
+"""LABORATORY 6
 EXERCISE #2: Character recognition using a single layer of many perceptrons.
     (a) From sklearn, load the NIST handwritten dataset and display its associated description for the user.
     (b) Using 10 perceptrons from scikit and a "one-hot coding" scheme (1-of-10), train each to recognize one digit. Be

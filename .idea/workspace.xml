@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cee43c3e-008c-4901-b018-572bb7d4d2c3" name="Default" comment="Changed name some files.">
+      <change afterPath="$PROJECT_DIR$/Experiments/L7_EX2_ASK_Symbol_Recovery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Data_4_Classes.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Data_4_Classes_Set2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/Data/Generate_Character_Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/L7_EX1_Hopfield_Nework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/L7_EX2_Hopfield_Nework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/L4_EX2_NGram_Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/Test_Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Data/ADALINE_Output.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Data/ADALINE_Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Perceptron_Comparison.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Perceptron_Comparison.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/L5_EX3_Iris_Classification_Custom_Perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/L5_EX2_Iris_Classification_Custom_Perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/L6_EX1_Parallel_Perceptron_Layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/L6_EX1_Parallel_Perceptron_Layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/L4_EX2_NGram_Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demonstrations/Animated_Perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/L7_EX1_MLP_Learning_Logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/L7_EX1_MLP_Learning_Logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/Test_Code/NGrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/Test_Code/NGrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/Test_Code/NLTK_Tokenizing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/Test_Code/NLTK_Tokenizing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab7/Test_Code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demonstrations/Gradient_Descent_Animated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1376760656">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1252" />
+          <entry key="py" value="9418" />
+          <entry key="txt" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="10670" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dat" value="3" />
+          <entry key="png" value="1" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab7/L7_EX1_Hopfield_Nework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab7/L7_EX2_Hopfield_Nework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fit</find>
+      <find>subpl</find>
+      <find>W</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab2/L2_EX2_Generate_2D_Data.py" />
+        <option value="$PROJECT_DIR$/Lab3.py" />
+        <option value="$PROJECT_DIR$/Demonstrations/Random.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX2_MAC.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX1_Error_Surface.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX2_Model_Fitting_v2.py" />
+        <option value="$PROJECT_DIR$/Lab2/Data/Generate_Data.py" />
+        <option value="$PROJECT_DIR$/Lab3/Data/Generate_Data.py" />
+        <option value="$PROJECT_DIR$/Lab3/Generate_Data.py" />
+        <option value="$PROJECT_DIR$/Lab4/Sentiment_Analysis.py" />
+        <option value="$PROJECT_DIR$/Lab4/NGrams.py" />
+        <option value="$PROJECT_DIR$/Lab4/L4_EX2_NGram_Database.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX3_Softmax.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX2_Model_Fitting.py" />
+        <option value="$PROJECT_DIR$/Lab1/L1_EX1_Plot_File_Data.py" />
+        <option value="$PROJECT_DIR$/Lab1/L1_EX2_Generate_Random_2D_Data.py" />
+        <option value="$PROJECT_DIR$/Experiments/LMS_Noise_Cancellation.py" />
+        <option value="$PROJECT_DIR$/Experiments/LMS_Noise_Cancellation_2.py" />
+        <option value="$PROJECT_DIR$/Lab3/Data/L3_EX4_Linear_Classifier.py" />
+        <option value="$PROJECT_DIR$/Lab3/Data/L3_EX4_Linear_Classifier_2.py" />
+        <option value="$PROJECT_DIR$/Lab3/L3_EX4_Linear_Classifier_2.py" />
+        <option value="$PROJECT_DIR$/Lab5/abc.py" />
+        <option value="$PROJECT_DIR$/Lab4/Class_Exercise.py" />
+        <option value="$PROJECT_DIR$/.git/config" />
+        <option value="$PROJECT_DIR$/Lab4/Noise_Cancellation.py" />
+        <option value="$PROJECT_DIR$/Lab2/L2_EX1_Embedded_Signal.py" />
+        <option value="$PROJECT_DIR$/Lab4/L4_EX2_LMS_Noise_Cancellation.py" />
+        <option value="$PROJECT_DIR$/Lab4/L4_EX2_NLMS_Noise_Cancellation.py" />
+        <option value="$PROJECT_DIR$/Lab4/L4_EX3_Sonar_Mines_vs_Rocks.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX1_Pattern_Classification.puy.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX1_Pattern_Classification.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX2_Character_Recognition.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX1_Perceptron_Learning_Logic.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX3_Custom_Perceptron.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX3_Iris_Classification_Custom_Perceptron.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Lab6/L6_EX1_Multilayer_XOR.py" />
+        <option value="$PROJECT_DIR$/Demonstrations/Animated_Perceptron.py" />
+        <option value="$PROJECT_DIR$/Lab4/L4_EX1_Linear_Classifier.py" />
+        <option value="$PROJECT_DIR$/Demonstrations/Gradient_Descent_Animated.py" />
+        <option value="$PROJECT_DIR$/Lab7/L7_EX1_MLP_Learning_Logic.py" />
+        <option value="$PROJECT_DIR$/Lab6/L6_EX2_Character_Recognition.py" />
+        <option value="$PROJECT_DIR$/Lab6/Neuron.py" />
+        <option value="$PROJECT_DIR$/Lab5/L5_EX2_Iris_Classification_Custom_Perceptron.py" />
+        <option value="$PROJECT_DIR$/Lab7/Data/Hopfield_Test_Data.dat" />
+        <option value="$PROJECT_DIR$/Lab7/Data/Generate_Character_Data.py" />
+        <option value="$PROJECT_DIR$/Lab6/L6_EX1_Parallel_Perceptron_Layer.py" />
+        <option value="$PROJECT_DIR$/Lab7/L7_EX2_ASK_Symbol_Recovery.py" />
+        <option value="$PROJECT_DIR$/Experiments/L7_EX2_ASK_Symbol_Recovery.py" />
+        <option value="$PROJECT_DIR$/Lab7/L7_EX1_Hopfield_Nework.py" />
+        <option value="$PROJECT_DIR$/Lab7/L7_EX2_Hopfield_Nework.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="148" />
+    <option name="y" value="134" />
+    <option name="width" value="1162" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab7" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab6" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab3\Data" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Experiments" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Experiments" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab8" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab6" />
+      <recent name="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Lab7" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.L7_EX2_Hopfield_Nework">
+    <configuration name="Generate_Character_Data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab7/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab7/Data/Generate_Character_Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gradient_Descent_Animated" type="PythonConfigurationType" factoryName="Python">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demonstrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demonstrations/Gradient_Descent_Animated.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L6_EX1_Parallel_Perceptron_Layer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab6/L6_EX1_Parallel_Perceptron_Layer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L7_EX1_Hopfield_Nework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab7/L7_EX1_Hopfield_Nework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L7_EX2_ASK_Symbol_Recovery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\john_\Desktop\Vanier Stuff\AI COURSE 2018\Code\Experiments\L7_EX2_ASK_Symbol_Recovery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L7_EX2_Hopfield_Nework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab7/L7_EX2_Hopfield_Nework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Gradient_Descent_Animated" />
+      <item itemvalue="Python.L7_EX1_Hopfield_Nework" />
+      <item itemvalue="Python.Generate_Character_Data" />
+      <item itemvalue="Python.L6_EX1_Parallel_Perceptron_Layer" />
+      <item itemvalue="Python.L7_EX2_ASK_Symbol_Recovery" />
+      <item itemvalue="Python.L7_EX2_Hopfield_Nework" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.L7_EX2_Hopfield_Nework" />
+        <item itemvalue="Python.L7_EX1_Hopfield_Nework" />
+        <item itemvalue="Python.L7_EX2_ASK_Symbol_Recovery" />
+        <item itemvalue="Python.L6_EX1_Parallel_Perceptron_Layer" />
+        <item itemvalue="Python.Generate_Character_Data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cee43c3e-008c-4901-b018-572bb7d4d2c3" name="Default" comment="" />
+      <created>1535380503390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535380503390</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1537584504031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537584504031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit.">
+      <created>1537586092607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537586092607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighed misclassifications.">
+      <created>1537629063785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537629063785</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighed misclassifications.">
+      <created>1537629167115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537629167115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighted misclassifications.">
+      <created>1537629990881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537629990881</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighted misclassification.">
+      <created>1537632996584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537632996584</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighted misclassification.">
+      <created>1537633103324</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537633103324</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modified comments adding more detail and providing a (text-based) diagram of the noise cancellation system.  PyCharm comment regions were added so that they closely resemble the stated objectives. Made changes to the readme.md file to show descriptions of Lab 4 exercises as well as their objectives.">
+      <created>1537633606559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537633606559</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed The description in the wording for Lab 4, Ex3 and added new objectives including the addition of a custom classifier that makes use of weights and bias extracted from a scikit's perceptron trained on the Sonar data set.  Training accuracy is assesed for the custom and scikit's perceptron using the same weights.  An objective was also added to export these comparisons to an Excel file.  Made many modifications to the root README.md file: Added titles for the labs already done, and inserted lab titles to be done for planning purposes.">
+      <created>1537758563772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537758563772</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed The description in the wording for Lab 4, Ex3 and added new objectives including the addition of a custom classifier that makes use of weights and bias extracted from a scikit's perceptron trained on the Sonar data set.  Training accuracy is assesed for the custom and scikit's perceptron using the same weights.  An objective was also added to export these comparisons to an Excel file.  Made many modifications to the root README.md file: Added titles for the labs already done, and inserted lab titles to be done for planning purposes. Completed Labs have checkmarks and uncompleted ones do not.">
+      <created>1537758720247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537758720247</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Checkmarks removed and formatting changes to README.md.">
+      <created>1537759857424</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537759857425</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added spaces in formatting because README.md does not render correctly any more.">
+      <created>1537759999099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537759999099</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added much more information about the repository to the README.md file.">
+      <created>1537828056303</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537828056303</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added much more information about the repository to the README.md file.">
+      <created>1537828587531</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537828587531</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Corrected a typo preventing a heading to appear.">
+      <created>1537828727670</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537828727670</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Corrected spacing that prevented a linebreak in README.md.">
+      <created>1537828801544</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537828801544</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Removed unnecessary import.">
+      <created>1537828939307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537828939307</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Perceptron examples (major update).  Updated the README.md file.">
+      <created>1538109384620</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538109384620</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Moved files around and renamed some.  Added an additional exercise with an arbitrarily large layer of adaline units.">
+      <created>1540275087773</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540275087775</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Code cleanup.">
+      <created>1540275422728</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540275422728</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Moved files around.  General housekeeping.">
+      <created>1542085108480</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542085108480</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
+      <window_info id="Structure" order="1" weight="0.24973656" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39822024" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.44362485" weight="0.22914349" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50632244" side_tool="true" weight="0.20735785" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.6127503" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="3" sideWeight="0.27272728" side_tool="true" weight="0.3054371" />
+      <window_info anchor="right" id="Run" order="4" sideWeight="0.7296997" weight="0.28997868" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17963752" />
+      <window_info id="Structure" order="1" weight="0.24973656" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.44362485" weight="0.3570634" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50632244" side_tool="true" weight="0.20735785" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.6127503" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="3" sideWeight="0.27030033" side_tool="true" visible="true" weight="0.478145" />
+      <window_info active="true" anchor="right" id="Run" order="4" sideWeight="0.7296997" visible="true" weight="0.478145" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighed misclassifications." />
+    <MESSAGE value="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighted misclassifications." />
+    <MESSAGE value="Changed comments to properly reflect objectives for this ADALINE (previously labeled a perceptron). Reoriented some of the data sets to provide some overlap between classes (to demonstrate misclassifications). Corrected target labels so that they are {+1,-1}. Changed the figure sizes and added proper titles to subplots. Produced a text plot with class labels and color highlighted misclassification." />
+    <MESSAGE value="Modified comments adding more detail and providing a (text-based) diagram of the noise cancellation system.  PyCharm comment regions were added so that they closely resemble the stated objectives. Made changes to the readme.md file to show descriptions of Lab 4 exercises as well as their objectives." />
+    <MESSAGE value="Fixed The description in the wording for Lab 4, Ex3 and added new objectives including the addition of a custom classifier that makes use of weights and bias extracted from a scikit's perceptron trained on the Sonar data set.  Training accuracy is assesed for the custom and scikit's perceptron using the same weights.  An objective was also added to export these comparisons to an Excel file.  Made many modifications to the root README.md file: Added titles for the labs already done, and inserted lab titles to be done for planning purposes." />
+    <MESSAGE value="Fixed The description in the wording for Lab 4, Ex3 and added new objectives including the addition of a custom classifier that makes use of weights and bias extracted from a scikit's perceptron trained on the Sonar data set.  Training accuracy is assesed for the custom and scikit's perceptron using the same weights.  An objective was also added to export these comparisons to an Excel file.  Made many modifications to the root README.md file: Added titles for the labs already done, and inserted lab titles to be done for planning purposes. Completed Labs have checkmarks and uncompleted ones do not." />
+    <MESSAGE value="Checkmarks removed and formatting changes to README.md." />
+    <MESSAGE value="Added spaces in formatting because README.md does not render correctly any more." />
+    <MESSAGE value="Added much more information about the repository to the README.md file." />
+    <MESSAGE value="Corrected a typo preventing a heading to appear." />
+    <MESSAGE value="Corrected spacing that prevented a linebreak in README.md." />
+    <MESSAGE value="Removed unnecessary import." />
+    <MESSAGE value="Added Perceptron examples (major update).  Updated the README.md file." />
+    <MESSAGE value="Moved files around and renamed some.  Added an additional exercise with an arbitrarily large layer of adaline units." />
+    <MESSAGE value="Changed name some files." />
+    <MESSAGE value="Code cleanup." />
+    <MESSAGE value="Moved files around.  General housekeeping." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved files around.  General housekeeping." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab3/L3_EX2_Model_Fitting.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>X</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab3/Data/Data_Set_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/Data/Ideal_Exponential.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab9/Test_Code/NLTK_Tokenizing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab9/L4_EX2_NGram_Database.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab9/Test_Code/NGrams.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/Data/Data_Set_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/Data/Data_Set_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiments/LMS_Noise_Cancellation.py" />
+    <entry file="file://$PROJECT_DIR$/Lab5/abc.py" />
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/sklearn/utils/multiclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/Data/sonar.mines">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/Data/sonar.all-data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/Data/sonar.names">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/L1_EX2_Generate_Random_2D_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/L1_EX1_Plot_File_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/L2_EX1_Embedded_Signal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/L2_EX2_Generate_2D_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/L3_EX1_Error_Surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/ADALINE_Output.png" />
+    <entry file="file://$PROJECT_DIR$/Lab4/Data/ADALINE_Output.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/L3_EX3_Softmax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/sklearn/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/Data/Digit_Classifier.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/Data/Digit_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/Iris_Sepal_Data.png" />
+    <entry file="file://$PROJECT_DIR$/Lab5/Data/Iris_Sepal_Data.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Fundamentals/Hello_World.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/L4_EX3_Sonar_Mines_vs_Rocks.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/L4_EX1_Linear_Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/matplotlib/cbook/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/matplotlib/animation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="1771" selection-start-line="1771" selection-end-line="1771" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/Noise_Cancellation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab4/L4_EX2_NLMS_Noise_Cancellation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demonstrations/Gradient_Descent_Animated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab3/L3_EX2_Model_Fitting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#498#517#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demonstrations/Animated_Perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="103" lean-forward="true" selection-start-line="31" selection-start-column="103" selection-end-line="31" selection-end-column="103" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="221">
+            <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/L5_EX1_Perceptron_Learning_Logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="50" column="45" lean-forward="true" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/L5_EX2_Iris_Classification_Custom_Perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab8/L7_EX1_MLP_Learning_Logic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab7/Data/Hopfield_Test_Data.dat" />
+    <entry file="file://$PROJECT_DIR$/Lab7/Data/Generate_Character_Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6/Data_4_Classes.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6/L6_EX1_Parallel_Perceptron_Layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6/L6_EX2_Character_Recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiments/L7_EX2_ASK_Symbol_Recovery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab7/L7_EX2_Hopfield_Nework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab6/Perceptron_Layer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab7/L7_EX1_Hopfield_Nework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

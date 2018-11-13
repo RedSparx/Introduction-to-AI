@@ -24,7 +24,7 @@ Students in the _New Developments in Digital Technology_ course are responsible 
 - [x] **Lab 2:** Ex. 1,2
 - [x] **Lab 3:** Ex. 1,2
 - [x] **Lab 4:** Ex. 1,2,3
-- [ ] ~~**Lab 5**~~
+- [x] **Lab 5:** EX. 1,3
 - [ ] ~~**Lab 6**~~
 - [ ] ~~**Lab 7**~~
 - [ ] ~~**Lab 8**~~

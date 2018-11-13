@@ -83,7 +83,10 @@ def Gen_Data_Set(set=1):
 
 if __name__ == '__main__':
     # region Generate data.
-    X, T = Gen_Data_Set(set=2)
+    Dataset_Number = 2
+    X, T = Gen_Data_Set(set=Dataset_Number)
+    Data = np.hstack((X, T))
+    np.savetxt('Data_4_Classes_Set%1d.dat'%Dataset_Number, Data, delimiter=',')
     # endregion
     # region Define and train an adaline layer.  The number of inputs and outputs are defined just prior to training.
     Ada = adaline(max_iter=1500, mu=10E-6)
@@ -94,7 +97,8 @@ if __name__ == '__main__':
     Training_Accuracy = (1-np.count_nonzero(T-P)/len(X)) * 100
     print('Training Accuracy Achieved: %4.2f%%'%Training_Accuracy)
     # endregion
-    # region Export the weight matrix.
+    # region Display the weight matrix.
+    np.set_printoptions(precision=4, suppress=True)
     print('Exported Weight Matrix:')
     print(W)
     # endregion
@@ -125,4 +129,5 @@ if __name__ == '__main__':
     plt.savefig('Perceptron_Layer.png')
     plt.show()
     # endregion
+
 

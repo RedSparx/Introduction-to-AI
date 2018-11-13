@@ -1,5 +1,5 @@
 """LABORATORY 5
-EXERCISE #3: Create a custom perceptron class and train it to distinguish between setosa and versicolor petals using
+EXERCISE #2: Create a custom perceptron class and train it to distinguish between setosa and versicolor petals using
     length and width (Iris dataset).
     (a) Load the Iris Dataset from scikit.  Plot the sepal length vs sepal width for the setosa and versicolor flowers.
     (b) Assemble training data into an array with data point in rows (columns contain features).
